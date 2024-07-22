@@ -5,7 +5,7 @@ This is a travel guide website in the works! I am using this site as my experime
 ### Skills
 I set out to strengthen or learn the following skills with this project
 
-- [] Javascript
-- [] Web-Architecture standards
-- [] CSS
-- [] HTML
+- [ ] Javascript
+- [ ] Web-Architecture standards
+- [ ] CSS
+- [ ] HTML
